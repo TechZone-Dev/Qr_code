@@ -1,2 +1,16 @@
-# Qr_code
-In This project i can make a  simple QR code Scanning app Which has a multiple Function it can scan QR code if code has any link app can shows a button to open it and third is in this app you can also make a qr code of any think that you want 
+# qr_code
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
